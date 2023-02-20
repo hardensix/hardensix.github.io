@@ -711,10 +711,10 @@ firestore:
 # Show Views / Visitors of the website / page with busuanzi.
 # Get more information on http://ibruce.info/2015/04/04/busuanzi
 busuanzi_count:
-  enable: false
-  total_visitors: false
+  enable: ture
+  total_visitors: ture
   total_visitors_icon: fa fa-user
-  total_views: false
+  total_views: ture
   total_views_icon: fa fa-home
   post_views: false
   post_views_icon: fa fa-eye
