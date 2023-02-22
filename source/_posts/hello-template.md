@@ -1,9 +1,10 @@
 ---
-title: present for you
+title: thanks for you
 ---
 
 > 
-  希望你可以一直开开心心的。❤❤❤
+  烟花很美，却稍纵即逝。感恩遇见，谢谢你让我得到了成长。
+  致；阿庄
 
 
 
